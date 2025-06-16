@@ -2,7 +2,7 @@
   "name": "print",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "test.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,6 +20,6 @@
   "homepage": "https://github.com/moker99/print#readme",
   "dependencies": {
     "escpos": "^3.0.0-alpha.6",
-    "usb": "^2.15.0"
+    "escpos-usb": "^3.0.0-alpha.4"
   }
 }
