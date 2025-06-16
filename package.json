@@ -1,0 +1,25 @@
+{
+  "name": "print",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moker99/print.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/moker99/print/issues"
+  },
+  "homepage": "https://github.com/moker99/print#readme",
+  "dependencies": {
+    "escpos": "^3.0.0-alpha.6",
+    "usb": "^2.15.0"
+  }
+}
